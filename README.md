@@ -8,5 +8,5 @@
 # 原理
 先获取一个屏幕截图，通过autojs内置的图像处理函数，在屏幕截图中找棋子位置，拖动屏幕上的悬浮窗瞄准目标位置，棋子位置和目标位置都有了，通过函数计算出按压屏幕的时长，执行按压屏幕函数。
  
-# 战绩 几乎不会出错
+# 战绩 几乎不会出错 (为2022中国冬奥会加油！)
 ![Image text](https://raw.githubusercontent.com/PowerShellA/wxJump/master/image/22.png)
